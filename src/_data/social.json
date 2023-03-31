@@ -1,0 +1,38 @@
+[
+	{
+		"platform": "### Comment: Make sure to add SVG icon in /assets/svg with same name as 'platform' ###",
+		"url": ""
+	},
+	{
+		"platform": "github",
+		"url": ""
+	},
+	{
+		"platform": "instagram",
+		"url": "https://www.instagram.com/north.forest.games/"
+	},
+	{
+		"platform": "linkedin",
+		"url": ""
+	},
+	{
+		"platform": "piedpiper",
+		"url": ""
+	},
+	{
+		"platform": "pinterest",
+		"url": ""
+	},
+	{
+		"platform": "twitter",
+		"url": ""
+	},
+	{
+		"platform": "youtube",
+		"url": "https://www.youtube.com/@NortFoot/videos"
+	},
+	{
+		"platform": "rss",
+		"url": "/feed.xml"
+	}
+]
