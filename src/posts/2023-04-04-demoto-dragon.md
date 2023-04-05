@@ -30,7 +30,7 @@ tags:
   - demoto_dragon
 ---
 
-#### Dig Deeper Into the Backstory
+#### Explore an Alien Planet
 
 Blast through hoards of aliens as an elite scout riding a motorcycle on an alien planet.
 

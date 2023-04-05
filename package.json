@@ -1,16 +1,16 @@
 {
-  "name": "sr-11ty-tailwind-alpine-template",
+  "name": "nfg-11ty",
   "version": "1.0.0",
-  "description": "Template for new projects with 11ty, TailwindCSS, TailwindUI, and Alpine.js",
-  "author": "Shane Robinson",
+  "description": "Website for NFG using 11ty, Tailwind, Alpine and the 11ta template.",
+  "author": "MMcKinney",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shanerobinson/sr-11ty-tailwind-alpine-template/issues"
+    "url": "https://github.com/MMcKinney/nfg-11ty/issues"
   },
-  "homepage": "https://github.com/shanerobinson/sr-11ty-tailwind-alpine-template#readme",
+  "homepage": "https://github.com/MMcKinney/nfg-11ty#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shanerobinson/sr-11ty-tailwind-alpine-template.git"
+    "url": "https://github.com/MMcKinney/nfg-11ty"
   },
   "keywords": [
     "11ty",
@@ -28,8 +28,8 @@
     "dev:eleventy": "npx @11ty/eleventy --serve",
     "dev": "npm-run-all clean --parallel dev:*",
     "build:tailwind": "npx tailwindcss -i src/assets/css/tailwind.css -o dist/css/styles.css --minify",
-    "build:eleventy": "ELEVENTY_PRODUCTION=true npx @11ty/eleventy",
-    "build": "NODE_ENV=production npm-run-all clean build:*"
+    "build:eleventy": "npx @11ty/eleventy",
+    "build": "npm-run-all clean build:*"
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
