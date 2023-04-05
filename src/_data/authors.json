@@ -1,0 +1,99 @@
+[
+	{
+		"slug": "cybernetic-druid",
+		"name": "CyberneticDruid",
+		"image": "/assets/images/authors/cybernetic-druid.jpg",
+		"bio": "Games, crypto, NFTs, AI, disruptive tech and business models.",
+		"companyWebsites": [
+			{
+				"label": "North Forest Games",
+				"url": "https://northforestgames.com"
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "CyberneticDruid.com",
+				"url": "https://cyberneticdruid.com"
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "instagram",
+				"url": "https://www.instagram.com/cyberneticdruid/"
+			},
+			{
+				"label": "twitter",
+				"url": "https://twitter.com/CyberneticDruid"
+			},
+			{
+				"label": "youtube",
+				"url": "https://www.youtube.com/@cyberneticdruid587"
+			}
+		]
+	},
+	{
+		"slug": "sperdunky",
+		"name": "Sperdunky",
+		"image": "/assets/images/authors/sperdunky.jpg",
+		"bio": "",
+		"companyWebsites": [
+			{
+				"label": "North Forest Games",
+				"url": "https://northforestgames.com"
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "Sperdunky Media",
+				"url": "https://sperdunkymedia.com/"
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "instagram",
+				"url": "https://www.instagram.com/sperdunky/"
+			},
+			{
+				"label": "twitter",
+				"url": "https://twitter.com/SPUNDERGROUND1"
+			},
+			{
+				"label": "youtube",
+				"url": "https://www.youtube.com/@sperdunkyisalive"
+			}
+		]
+	},
+	{
+		"slug": "shadow-buddy",
+		"name": "ShaddowBuddy",
+		"image": "/assets/images/authors/shadow-buddy.jpg",
+		"bio": "",
+		"companyWebsites": [
+			{
+				"label": "North Forest Games",
+				"url": "https://northforestgames.com"
+			}
+		],
+		"personalWebsites": [
+			{
+				"label": "Shadow Buddy Music",
+				"url": "https://shadowbuddymusic.com/"
+			}
+		],
+		"socialWebsites": [
+			{
+				"label": "instagram",
+				"url": "https://www.instagram.com/shadowbuddymusic/"
+			},
+			{
+				"label": "twitter",
+				"url": "https://twitter.com/ShadowBuddyMus"
+			},
+			{
+				"label": "youtube",
+				"url": "https://www.youtube.com/@shadowbuddy707"
+			}
+		]
+	}	
+]
+
