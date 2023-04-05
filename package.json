@@ -17,7 +17,6 @@
     "TailwindCSS",
     "TailwindUI",
     "Alpine.js",
-    "webpack",
     "PostCSS",
     "CSSnano"
   ],

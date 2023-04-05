@@ -130,6 +130,13 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy('src/assets/images/')
 	eleventyConfig.addPassthroughCopy('src/assets/svg/')
 	eleventyConfig.addPassthroughCopy('src/assets/video/')
+	eleventyConfig.addPassthroughCopy({
+		'./node_modules/alpinejs/dist/cdn.min.js': 'assets/alpine.js',
+	})
+	//removed for now
+	//eleventyConfig.addPassthroughCopy({
+		//'src/assets/scripts/main.js': 'assets/main.js'
+	//})
 
 	/**
 	 * Set custom markdown library instance...
