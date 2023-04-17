@@ -15,14 +15,14 @@ heroSettings:
     desktop: # leave blank to inherit "mobile" height (default = full screen)
   bg:
     color: # default bg-black
-    image: home/demoto_dragon_alpha.jpg # relative to /assets/images/
+    image: 2023/04/demoto_dragon_alpha.jpg # relative to /assets/images/
     imagePosition: # options = bg-center (default), bg-left, bg-right
     video: #pixabay-john-macdougall.mp4 # local relative /assets/video/, or full https://... if remote?
     opacityMobile: opacity-50 # options opacity-n, 5, 10, 15, 20, 25, 50, 75, 100 (default)
     opacityDesktop: opacity-75 # Leave blank to inherit opacityMobile, use same options as opacityMobile
 images: # relative to /src/assets/images/
   feature:
-  thumb: home/demoto_dragon_alpha.jpg
+  thumb: 2023/04/demoto_dragon_alpha.jpg
   align: # object-center (default) - other options at https://tailwindcss.com/docs/object-position
   height: # optional. Default = h-48 md:h-1/3
 tags:
